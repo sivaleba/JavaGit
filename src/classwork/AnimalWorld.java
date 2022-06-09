@@ -6,8 +6,8 @@ public class AnimalWorld {
 		System.out.println("This is animal world");
 		System.out.println("Animal world: dog");
 		System.out.println("Animal world : Peacock");
-		system.out.println("This is Tiger");
-		system.out.println("It's Elephant");
+		System.out.println("This is Tiger");
+		System.out.println("It's Elephant");
 
 	}
 
